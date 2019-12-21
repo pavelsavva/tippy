@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.ibb.co/F7jF6Xq/ezgif-com-video-to-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with `xcrun simctl recordVideo` command.
 
 ## Notes
 
@@ -37,7 +37,7 @@ In the project set up screen I had to make sure to create a Storyboard and not a
 
 ## License
 
-    Copyright [2019] [Pavel Savva]
+    Copyright 2019 Pavel Savva
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
