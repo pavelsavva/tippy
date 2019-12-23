@@ -4,7 +4,7 @@
 
 Submitted by: **Pavel Savva**
 
-Time spent: **5.5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/uviPZ2v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/wR2fETs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with `xcrun simctl recordVideo` command.
 
