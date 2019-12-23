@@ -20,8 +20,10 @@ The following **optional** features are implemented:
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
-
 - [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Add a light/dark color theme to the settings view. In viewWillAppear, update views with the correct theme colors.
+- [ ] Add animations to your UI
+- [ ] The Tip calculator has a very primitive UI. Feel free to play with colors, layout, or even modify the UI to improve it.
 
 ## Video Walkthrough 
 
