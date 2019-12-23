@@ -25,9 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-<video src="https://i.imgur.com/FyVZpvP.mp4" width="320" height="200" controls preload></video>
+[Here's a walkthrough of implemented user stories](https://imgur.com/a/3eqKKb0)
 
 GIF created with `xcrun simctl recordVideo` command.
 
