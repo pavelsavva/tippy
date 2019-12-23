@@ -48,16 +48,11 @@ class ViewController: UIViewController {
     }
     
     @IBAction func onTap(_ sender: Any) {
-        
-        view.endEditing(true)
+        keepFirstResponder()
     }
     
     @IBAction func calculateTip(_ sender: Any) {
         calculateTipLogic()
-    }
-    
-    @IBAction func tap(_ sender: Any) {
-        keepFirstResponder()
     }
     
     func convertToLocalCurrency(tip: Double, total: Double) -> (String, String) {
