@@ -90,6 +90,10 @@ class ViewController: UIViewController {
         tipLabel.text = tipTotalStrings.0
         totalLabel.text = tipTotalStrings.1
         
+        // Get current default
+        defaults.set(bill, forKey: "lastBill")
+        defaults.set(Date(), forKey: "lastBillDate")
+        
         // Force UserDefaults to save.
         defaults.synchronize()
     }
