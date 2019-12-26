@@ -4,7 +4,7 @@
 
 Submitted by: **Pavel Savva**
 
-Time spent: **11** hours spent in total
+Time spent: **13** hours spent in total
 
 ## User Stories
 
@@ -23,15 +23,15 @@ The following **additional** features are implemented:
 - [x] Add a light/dark color theme to the settings view. In viewWillAppear, update views with the correct theme colors.
 - [x] Add animations to your UI
 - [x] The Tip calculator has a very primitive UI. Feel free to play with colors, layout, or even modify the UI to improve it.
-- [ ] Add app icon
-- [ ] Change app name to Tippy (from tippy)
+- [x] Add app icon
+- [x] Change app name to Tippy (from tippy)
 - [ ] Add an option to change the default tip percentages
 - [ ] Add an option to split the bill between x people
-
+- [ ] Add a splash screen that get displayed when there are no saved last bills (or they are expire)
 
 ## Video Walkthrough 
 
-[Here's a walkthrough of implemented user stories](https://i.imgur.com/X29HC6T.mp4)
+[Here's a walkthrough of implemented user stories](https://i.imgur.com/jClGqFR.mp4)
 
 GIF created with `xcrun simctl io booted recordVideo ~/Desktop/walhrough.mp4` command.
 
