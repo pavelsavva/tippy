@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		700CDEFA23ADCF0400B4DB4B /* tippy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tippy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		700CDEFA23ADCF0400B4DB4B /* Tippy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tippy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		700CDEFD23ADCF0400B4DB4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		700CDEFF23ADCF0400B4DB4B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		700CDF0123ADCF0400B4DB4B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		700CDEFB23ADCF0400B4DB4B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				700CDEFA23ADCF0400B4DB4B /* tippy.app */,
+				700CDEFA23ADCF0400B4DB4B /* Tippy.app */,
 				700CDF1023ADCF0500B4DB4B /* tippyTests.xctest */,
 				700CDF1B23ADCF0500B4DB4B /* tippyUITests.xctest */,
 			);
@@ -148,7 +148,7 @@
 			);
 			name = tippy;
 			productName = tippy;
-			productReference = 700CDEFA23ADCF0400B4DB4B /* tippy.app */;
+			productReference = 700CDEFA23ADCF0400B4DB4B /* Tippy.app */;
 			productType = "com.apple.product-type.application";
 		};
 		700CDF0F23ADCF0500B4DB4B /* tippyTests */ = {
@@ -445,7 +445,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.codepath.tippy;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Tippy;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -462,7 +462,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.codepath.tippy;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Tippy;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
